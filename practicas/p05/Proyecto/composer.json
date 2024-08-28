@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Saludos\\": "src/Saludos/",
+            "Chistes\\": "src/Chistes/"
+        }
+    }
+}
